@@ -19,6 +19,9 @@ Un compromis précision–rappel a été analysé pour cette classe afin d’opt
 - `*.ipynb` : notebook(s) contenant l’analyse, les expériences et les visualisations
 - `requirements.txt` : dépendances Python nécessaires à l’exécution du projet
 
+## Remarques
+Ce projet a été réalisé dans un cadre académique et vise à illustrer l’application de méthodes de classification sur des données réelles.
+
 ## Prérequis
 - Python 3.9 ou plus récent
 - Bibliothèques listées dans `requirements.txt`
@@ -26,7 +29,3 @@ Un compromis précision–rappel a été analysé pour cette classe afin d’opt
 ## Installation
 ```bash
 pip install -r requirements.txt
-
-## Remarques
-Ce projet a été réalisé dans un cadre académique et vise à illustrer l’application de méthodes de classification sur des données réelles.
-
