@@ -26,3 +26,7 @@ Un compromis précision–rappel a été analysé pour cette classe afin d’opt
 ## Installation
 ```bash
 pip install -r requirements.txt
+
+## Remarques
+Ce projet a été réalisé dans un cadre académique et vise à illustrer l’application de méthodes de classification sur des données réelles.
+
